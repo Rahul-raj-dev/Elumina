@@ -25,7 +25,7 @@
                         <div class="text-center">{{$user->email}}</div>
                     <div class="text-center">
                         <span class=" text-center"><a href="/customers/verifications/queue" class="btn btn-warning">Customers Applications</a></span>
-                        <span class=" text-center"><a href="/customers/verified/queue" class="btn btn-success">Verified Customers</a></span>
+                        <span class=" text-center"><a href="/customers/verified/queue" class="btn btn-success">Approved Customers</a></span>
                     </div>
                     <marquee class="mt-md-4">Elumina Elearning Dashboard Panel</marquee>
                         @endif
